@@ -1,0 +1,32 @@
+_repo: The-Romance-of-Zion-Chapel--3d-ed.-_10949
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Gallienne, Richard
+    aliases:
+    - Gallienne, Richard Le
+    - LeGallienne, Richard
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '246'
+    url: http://www.gutenberg.org/2009/agents/246
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Le_Gallienne
+description: This edition with design by Will Bradley is not to be confused with the
+  first English edition, which was issued in dark blue cloth, perfectly plain and
+  without design.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Clergy -- England -- Fiction'
+- GITenberg
+title: The Romance of Zion Chapel [3d ed.]
+url: http://www.gutenberg.org/ebooks/10949
