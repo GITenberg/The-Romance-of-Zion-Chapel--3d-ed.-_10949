@@ -1,5 +1,8 @@
 _repo: The-Romance-of-Zion-Chapel--3d-ed.-_10949
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Gallienne, Richard
@@ -14,6 +17,8 @@ creator:
 description: This edition with design by Will Bradley is not to be confused with the
   first English edition, which was issued in dark blue cloth, perfectly plain and
   without design.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10949#The-Romance-of-Zion-Chapel--3d-ed.-
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
